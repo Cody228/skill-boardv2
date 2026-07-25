@@ -10,8 +10,8 @@
 
 window.DASHBOARD_DATA = {
   profile: {
-    name: "阿劍",
-    lang: "JavaScript",
+    name: "Cody Chen",
+    lang: "RPA UiPath and Power Automate",
   },
   sections: [
     {
