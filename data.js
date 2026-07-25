@@ -11,7 +11,7 @@
 window.DASHBOARD_DATA = {
   profile: {
     name: "Cody Chen",
-    lang: "RPA UiPath and Power Automate v2",
+    lang: "RPA UiPath and Power Automate v2V2",
   },
   sections: [
     {
